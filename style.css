@@ -1,0 +1,166 @@
+#header{
+    display: flex;
+    margin-top: 10%;
+    
+
+}
+.ashik{
+    line-height: 50px;
+}
+.header-pert{
+    width: 50%;
+    padding-left: 5%;
+    margin-bottom: 5%;
+}
+.heading-tag{
+    font-family: 'Oswald', sans-serif;
+font-family: 'Poppins', sans-serif;
+font-size: 70px;
+}
+
+.color-text{
+    color: blue;
+}
+p{
+    font-family: 'Oswald', sans-serif;
+font-family: 'Poppins', sans-serif;
+}
+.batton{
+    text-decoration: none;
+    background-image: linear-gradient( red,yellow);
+    border-radius: 15px;
+    font-size: 50px;
+    padding-bottom: 0%;
+}
+.header-pert img{
+    width: 100%;
+}
+#bg-pert{
+ 
+ display: flex;
+ 
+ background-image: url(images/shapes/Frame\ 57.jpg);
+  margin-top: 5%;
+   
+}
+
+.image-bg img{
+    height: 500px;
+    padding-left: 50%;
+    margin-top: 20%;
+   
+}
+h1{
+    font-size: 40px;
+}
+.about{
+    margin-top: 10%;
+   padding-left: 35%;
+   margin-left: 0px;
+   padding-right: 20%;
+}
+.link{
+    text-decoration: none;
+    background-image: linear-gradient( red,yellow);
+    border-radius: 15px;
+    font-size: 50px;
+    padding-bottom: 0%;
+}
+
+#recipie{
+    text-align: center;
+    margin-top: 5%;
+}
+.paragraph{
+    text-align: center;
+    padding-left: 30%;
+    padding-right: 30%;
+}
+.my-photo{
+    display: flex;
+   
+   
+}
+.my-photo div{
+    box-shadow: 10px 15px 20px 20px #ffffff;
+
+}
+#detals{
+    inline-size: 20%;
+    border: 7px solid white;
+    padding: 5px;
+    margin: 5%;
+    border-image: linear-gradient(
+        180deg,white);
+        border-radius: 5%;
+}
+#nil{
+    inline-size: 20%;
+    border: 7px solid white;
+    padding: 5px;
+    margin: 5%;
+    border-image: linear-gradient(
+        180deg,white);
+        border-radius: 5%;
+}
+#hk-hasib{
+    inline-size: 20%;
+    border: 7px solid white;
+    padding: 5px;
+    margin: 5%;
+    border-image: linear-gradient(
+        180deg,white);
+        border-radius: 5%;
+
+}
+#jahid{
+    display: flex;
+   
+    margin: 5%;
+    box-shadow: 10px 0px 30px 20px #ffffff;
+    border-image: linear-gradient(
+        180deg,#ffffff);
+        border-radius: 5%;
+   
+}
+#hasan{
+    padding-left: 10%;
+
+}
+#rony{
+    padding-left: 20%;
+
+}
+#sakib{
+    padding-left: 30%;
+}
+footer{
+    background-color: black;
+    height: 300px;
+    margin-bottom: 0px;
+    margin-left: 0px;
+   
+
+}
+#thanks{
+    text-align: center;
+    margin-top: 20%;
+    padding-top: 3%;
+}
+.hmmmmm{
+    color: blue;
+
+}
+.mmmmmmmm{
+    color: rgb(245, 136, 136);
+    
+}
+.welcome{
+    color: azure;
+    text-align: center  ;
+    margin-top: 5%;
+    font-size: 30px;
+
+}
+
+
